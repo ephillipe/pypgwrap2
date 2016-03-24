@@ -1,0 +1,9 @@
+venv
+*.swp
+*.pyc
+*~
+*.egg-info
+build
+dist
+.idea
+atlassian-ide-plugin.xml
